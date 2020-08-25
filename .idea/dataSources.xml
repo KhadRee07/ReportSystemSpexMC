@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="mc_db2@govpn.ovh" uuid="f19f04bc-8381-407e-b89a-225d12331688">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://govpn.ovh:3306/mc_db2</jdbc-url>
+      <driver-properties>
+        <property name="serverTimezone" value="Europe/Berlin" />
+      </driver-properties>
+    </data-source>
+  </component>
+</project>

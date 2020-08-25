@@ -1,0 +1,6 @@
+name: Report
+version: 0.1
+main: de.khadree.report.Report
+
+commands:
+  report:
